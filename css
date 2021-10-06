@@ -1,0 +1,38 @@
+
+        h1{
+           text-align: center; 
+           margin-top: 50px;
+           margin-bottom: 50px;
+        }
+        .row{
+            
+            padding: 20px;
+
+                     
+          
+       }
+
+       .container{
+           border: 2px soli grey;
+           margin: 1px;
+           background: grey;
+           color: lavender;   
+          
+           
+
+       }
+
+        h2{
+            text-align: center;
+            color: white;
+            font-size: 30px;
+            
+        }
+        p{
+            padding: 3px;
+            font-size: 18px;
+        }
+        .navbar-brand{
+            font-size: 30px;
+        }
+       
